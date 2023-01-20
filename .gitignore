@@ -1,2 +1,4 @@
 .DS_Store
 api_config.py
+.gitsecret/keys/random_seed
+!*.secret
